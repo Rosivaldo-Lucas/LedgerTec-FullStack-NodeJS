@@ -1,5 +1,5 @@
-# LedgerTec-FullStack-NodeJS
-Desafio FullStack NodeJS para o processo seletivo da Ledger Tec
+# Ledger Tec FullStack NodeJS e ReactJS
+Desafio FullStack NodeJS e ReactJS para o processo seletivo da Ledger Tec
 
 ## Objetivo
 
