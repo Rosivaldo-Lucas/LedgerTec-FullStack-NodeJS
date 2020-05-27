@@ -68,4 +68,6 @@ yarn start
 
 Pronto! O sistema com a `API` e o `FrontEnd` está rodando localmente na sua máquina em `http://localhost:3333` e `http://localhost:3000` respectivamente.
 
+---
+
 `Rosivaldo Lucas, estudante de Engenharia de Computação - UFPB`
