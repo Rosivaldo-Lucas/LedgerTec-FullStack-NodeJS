@@ -4,15 +4,15 @@ Criação de Aplicação Web para Gestão de Produtos.
 
 ## Requisitos para rodar a aplicação web
 
-- Ter o `node`, e o `yarn` instalados em sua máquina.
+- Ter o `node` e o `yarn` instalados em sua máquina.
 
-## Antes de tudo Clone esse Repositório
+## Antes de tudo clone esse repositório
 
 ```bash
 git clone https://github.com/Rosivaldo-Lucas/LedgerTec-FullStack-NodeJS.git
 ```
 
-## Como Executar a interface web
+## Como executar a interface web
 
 - Acesse a pasta do `frontend`
 
