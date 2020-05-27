@@ -1,7 +1,6 @@
 # Ledger Tec - Desafio REST API Express (NodeJS)
 
-Nesse Repositório se econtra a solução para o desafio FrontEnd. Onde foi solicitado a criação de um projeto
-ReactJS para consumir uma API (JSON SERVER). O sistema cadastra usuários, edita, pesquisa e deleta.
+Criação de uma REST API com NodeJS para CRUD de produtos.
 
 ## Requisitos para rodar o BackEnd
 
@@ -37,10 +36,19 @@ Pronto! O servidor com a `API` está rodando localmente na sua máquina em `http
 
 ## Tecnologias utilizadas
 
-- NodeJS, npm e yarn
-- ReactJS
-- Bootstrap
-- Json Server (Simulando um servidor real)
+- NodeJS
+- Gerenciador de pacotes Yarn
+- Framework Express
+- ORM Sequelize
+- Banco de Dados SQLITE
+
+## Rotas da REST API
+
+- get('/api/produtos') - Lista 10 produtos cadastrados por vez
+- get('/api/produtos/:id') - Lista um produto pelo seu id
+- post('/api/produtos') - Cadastra um novo produto
+- put('/api/produtos/:id') - Atualiza um produto pelo seu id
+- delete('/api/produtos/:id') - Deleta um produto pelo seu id
 
 ---
 
